@@ -1,0 +1,6 @@
+Blame_IgnoreWhitespace=true
+checkBeforeCommitting=true
+commit_dialog_include_untracked=true
+commit_dialog_signed_off_by=true
+eclipse.preferences.version=1
+warnBeforeCommitting=1
